@@ -1,6 +1,6 @@
 # React + Vite
 
-View the project <a href="https://secret-word-react-black.vercel.app" target="blank_"> here </a>
+View the project <a href="https://secret-word-react-black.vercel.app" target="_blank"> here </a>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
